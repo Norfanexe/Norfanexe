@@ -202,5 +202,4 @@ Entendo que o papel do QA vai além da validação de funcionalidades. Um profis
 Estou sempre aberto para trocar experiências sobre Qualidade de Software, colaborar em projetos e conhecer novas oportunidades profissionais.
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rodrigo-p-049465179/
-- 💻 **GitHub:** https://github.com/Norfanexe
 - 📧 **E-mail:** Rodrigo68467@outlook.com
