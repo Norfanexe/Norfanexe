@@ -37,108 +37,140 @@ Acredito que bons testes começam com boas perguntas. Por isso, procuro compreen
 
 ---
 
-## Projetos em Destaque
+## QA User Management
 
-Cada projeto representa uma etapa da minha evolução prática em Qualidade de Software, demonstrando competências em automação de testes, testes de APIs, documentação técnica e análise de qualidade.
+<p align="center">
+  <img src="assets/imagens/qa-user-management-cover.png" width="100%">
+</p>
 
-### QA User Management
+Aplicação desenvolvida para simular um sistema de gerenciamento de usuários, servindo como ambiente para prática de testes manuais e automatizados.
 
-Aplicação desenvolvida para simular um sistema de gerenciamento de usuários, desenvolvida como ambiente para prática para testes manuais e automatizados.
+### 🎯 Meu papel
 
-**Meu papel**
 - Desenvolvimento da aplicação e da estratégia de testes.
 - Planejamento e implementação da automação utilizando Playwright.
 - Estruturação dos cenários de validação e regressão.
 
-**Principais entregas**
-- ✔ 42 casos de teste automatizados
-- ✔ Testes positivos e negativos
-- ✔ Validação de regras de negócio
-- ✔ Testes de regressão
-- ✔ Relatório HTML de execução
-- ✔ Estrutura organizada para expansão da suíte
+### ✅ Principais entregas
 
-**Tecnologias**
+- 42 casos de teste automatizados
+- Testes positivos e negativos
+- Validação de regras de negócio
+- Testes de regressão
+- Relatório HTML de execução
+- Estrutura preparada para expansão da suíte
 
-Playwright • JavaScript • HTML • CSS • LocalStorage
+### 💻 Tecnologias
 
-🔗 Repositório:
-https://github.com/Norfanexe/qa-user-management-playwright
+`Playwright` • `JavaScript` • `HTML` • `CSS` • `LocalStorage`
+
+<p align="center">
+<a href="https://github.com/Norfanexe/qa-user-management-playwright">
+<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-### API Payments QA Lab
+## API Payments QA Lab
+
+<p align="center">
+  <img src="assets/imagens/api-payments-cover.png" width="100%">
+</p>
 
 Laboratório desenvolvido para praticar testes em APIs REST simulando cenários de pagamentos, com foco na validação de regras de negócio, autenticação, respostas HTTP e consistência dos dados.
 
-**Meu papel**
+### 🎯 Meu papel
+
 - Planejamento e execução dos cenários de teste.
 - Validação de endpoints e contratos da API.
 - Organização das coleções e documentação dos testes.
 
-**Principais entregas**
-- ✔ Testes de endpoints REST
-- ✔ Validação de códigos de status HTTP
-- ✔ Verificação de payloads JSON
-- ✔ Testes positivos e negativos
-- ✔ Organização de coleções para reutilização
+### ✅ Principais entregas
 
-**Tecnologias**
+- Testes de endpoints REST
+- Validação de códigos de status HTTP
+- Verificação de payloads JSON
+- Testes positivos e negativos
+- Organização de coleções reutilizáveis
 
-Postman • APIs REST • HTTP • JSON • Swagger
+### 💻 Tecnologias
 
-🔗 Repositório:
-https://github.com/Norfanexe/api-payments-qa-lab
+`Postman` • `REST APIs` • `HTTP` • `JSON` • `Swagger`
+
+<p align="center">
+<a href="https://github.com/Norfanexe/api-payments-qa-lab">
+<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-### Desafio QA Beedoo
+## Desafio QA Beedoo
 
-Projeto desenvolvido como desafio técnico de Quality Assurance, contemplando testes manuais, documentação estruturada, análise crítica de bugs e raciocínio orientado à qualidade de software na prática em uma ferramenta web.
+<p align="center">
+  <img src="assets/imagens/beedoo-cover.png" width="100%">
+</p>
 
-**Meu papel**
+Projeto desenvolvido como desafio técnico de Quality Assurance, contemplando testes manuais, documentação estruturada, análise crítica de bugs e raciocínio orientado à qualidade de software.
+
+### 🎯 Meu papel
+
 - Levantamento dos requisitos.
 - Planejamento dos cenários de teste.
 - Execução dos testes funcionais.
 - Registro e documentação dos defeitos encontrados.
 
-**Principais entregas**
-- ✔ Casos de teste estruturados
-- ✔ Relatório de execução
-- ✔ Registro de bugs
-- ✔ Evidências dos testes
-- ✔ Documentação completa do processo
+### ✅ Principais entregas
 
-**Tecnologias e Ferramentas**
+- Casos de teste estruturados
+- Relatório de execução
+- Registro de bugs
+- Evidências dos testes
+- Documentação completa do processo
 
-Excel • Documentação • Testes Manuais • DevTools
+### 💻 Tecnologias
 
-🔗 Repositório:
-https://github.com/Norfanexe/DESAFIO-QA-BEEDOO-2025
+`Excel` • `Documentação` • `Testes Manuais` • `DevTools`
+
+<p align="center">
+<a href="https://github.com/Norfanexe/DESAFIO-QA-BEEDOO-2025">
+<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-### Compass UOL – Quality AI
+## Compass UOL – Quality AI
+
+<p align="center">
+  <img src="assets/imagens/compass-cover.png" width="100%">
+</p>
 
 Projeto desenvolvido durante a formação em Quality Engineering na Compass UOL, aplicando práticas de qualidade de software, testes de APIs, automação e fundamentos de computação em nuvem (AWS).
 
-**Meu papel**
+### 🎯 Meu papel
+
 - Desenvolvimento das atividades propostas ao longo da trilha.
 - Aplicação de testes e automação.
 - Documentação das entregas e boas práticas de QA.
 
-**Principais entregas**
-- ✔ Testes Web e de APIs
-- ✔ Automação com Playwright
-- ✔ Integração de conceitos de AWS e IA aplicada à Qualidade
-- ✔ Documentação técnica
+### ✅ Principais entregas
 
-**Tecnologias**
+- Testes Web e de APIs
+- Automação com Playwright
+- Integração de AWS e IA aplicada à Qualidade
+- Documentação técnica
 
-Playwright • Postman • AWS • JavaScript • Git • Mocha & Chai
+### 💻 Tecnologias
 
-🔗 Repositório:
-https://github.com/Norfanexe/Compass-Uol-Quality-AI
+`Playwright` • `Postman` • `AWS` • `JavaScript` • `Git` • `Mocha & Chai`
+
+<p align="center">
+<a href="https://github.com/Norfanexe/Compass-Uol-Quality-AI">
+<img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ## Minha Filosofia de Qualidade
 
