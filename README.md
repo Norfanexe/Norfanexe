@@ -2,6 +2,16 @@
   <img src="assets/banner/banner-github.png" alt="Banner Rodrigo Pereira Costa" width="100%">
 </p>
 
+---
+
+### GitHub Metrics 💻
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Norfanexe&show_icons=true&theme=tokyonight"/>
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Norfanexe&layout=compact&theme=tokyonight"/>
+
 ### Qualidade de Software | QA
 
 Profissional de Qualidade de Software com experiência prática em testes Web, testes de APIs e automação, contribuindo para a construção de soluções confiáveis por meio de boas práticas de qualidade e melhoria contínua.
